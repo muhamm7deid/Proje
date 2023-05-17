@@ -1,0 +1,84 @@
+a
+{
+    text-decoration: none;
+    color: rgb(34, 0, 224);
+}
+
+a:hover{
+    color: green;
+    font-size: 14pt;
+}
+a::selection{
+    color: aqua;
+}
+
+p
+{
+    text-align: left;
+}
+#span1
+{
+background-color: black;
+}
+#span2
+{
+    background-color: olivedrab;
+}
+#nav
+{
+    float: left;
+    background-color: palevioletred;
+   
+    
+    
+
+}
+#clear
+{
+clear: both;
+}
+#footer
+{
+    background-color: blue;
+    height: max-content;
+
+}
+#iletisimform label
+{
+    font-size: large;
+    font-weight: bold;
+}
+#iletisimform
+{
+    padding-right: 70%;
+    padding-left: 2%;
+  
+}
+header{
+    text-decoration-color: aqua;
+}
+h6{
+    text-align: center;
+}
+
+p[title="test"]
+{
+    text-decoration: underline;
+    text-transform:capitalize;
+}
+#iletisimphptablo
+{
+
+    margin-top: 20%;
+    
+}
+#resimler{
+   margin-left: 35%;
+}
+#spor
+{
+    border-color: red;
+   
+    
+}
+
